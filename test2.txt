@@ -1,0 +1,3 @@
+hello this is the test 2 for learning the git 
+and the command are 
+insert- add- commit-push
